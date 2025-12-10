@@ -47,5 +47,3 @@ public class AddNode {
         sc.close();
     }
 }
-
-
